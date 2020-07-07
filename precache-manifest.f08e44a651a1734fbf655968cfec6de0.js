@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "582d3d7b02cb422fd686bde726612e32",
+    "revision": "728044b59e48e825cbb7e6e430c85487",
     "url": "/wheelz-dev/index.html"
   },
   {
-    "revision": "4ed756b7796aa854b6c6",
+    "revision": "5927400b45dfbcd669b9",
     "url": "/wheelz-dev/static/css/main.626b0879.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wheelz-dev/static/js/2.26698f81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ed756b7796aa854b6c6",
-    "url": "/wheelz-dev/static/js/main.bb3aa446.chunk.js"
+    "revision": "5927400b45dfbcd669b9",
+    "url": "/wheelz-dev/static/js/main.ce4132ec.chunk.js"
   },
   {
     "revision": "29b264ca18c960858456",
