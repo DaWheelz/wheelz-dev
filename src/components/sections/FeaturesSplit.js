@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                   Rolstoelhockey
                   </h3>
                 <p className="m-0">
-                Deze app is gemaakt voor een door spelers van de Rolstoelhockey community.
+                Deze app is gemaakt voor en door spelers van de Rolstoelhockey community.
                 </p>
                 <div style={{display: 'flex', justifyContent: 'space-between', marginTop: 10}}>
               <a href="https://apps.apple.com/nl/app/rolstoelhockey/id1512920070?mt=8" style={{display: 'inline-block', overflow:'hidden', background:"url(https://linkmaker.itunes.apple.com/nl-nl/badge-lrg.svg?releaseDate=2020-06-15&kind=iossoftware&bubble=ios_apps) no-repeat", width:135, height:40}}></a>

@@ -115,7 +115,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Onnovatief
+                    Innovatief
                     </h4>
                   <p className="m-0 text-sm">
                     Bij WheelzDev blijven wij altijd op de hoogte van nieuwste technologieën, zo heeft u altijd een moderne applicatie.
