@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wheelz-dev/static/css/main.626b0879.chunk.css",
-    "main.js": "/wheelz-dev/static/js/main.eec70fb0.chunk.js",
-    "main.js.map": "/wheelz-dev/static/js/main.eec70fb0.chunk.js.map",
+    "main.js": "/wheelz-dev/static/js/main.cec6ccb5.chunk.js",
+    "main.js.map": "/wheelz-dev/static/js/main.cec6ccb5.chunk.js.map",
     "runtime-main.js": "/wheelz-dev/static/js/runtime-main.71be7d43.js",
     "runtime-main.js.map": "/wheelz-dev/static/js/runtime-main.71be7d43.js.map",
     "static/js/2.26698f81.chunk.js": "/wheelz-dev/static/js/2.26698f81.chunk.js",
     "static/js/2.26698f81.chunk.js.map": "/wheelz-dev/static/js/2.26698f81.chunk.js.map",
     "index.html": "/wheelz-dev/index.html",
-    "precache-manifest.f1d2af1526337558d74a570de7922a76.js": "/wheelz-dev/precache-manifest.f1d2af1526337558d74a570de7922a76.js",
+    "precache-manifest.7a9f8ab7a652dcb0323a055870b33c35.js": "/wheelz-dev/precache-manifest.7a9f8ab7a652dcb0323a055870b33c35.js",
     "service-worker.js": "/wheelz-dev/service-worker.js",
     "static/css/main.626b0879.chunk.css.map": "/wheelz-dev/static/css/main.626b0879.chunk.css.map",
     "static/js/2.26698f81.chunk.js.LICENSE.txt": "/wheelz-dev/static/js/2.26698f81.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.71be7d43.js",
     "static/js/2.26698f81.chunk.js",
     "static/css/main.626b0879.chunk.css",
-    "static/js/main.eec70fb0.chunk.js"
+    "static/js/main.cec6ccb5.chunk.js"
   ]
 }
