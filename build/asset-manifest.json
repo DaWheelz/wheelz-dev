@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wheelz-dev/static/css/main.626b0879.chunk.css",
+    "main.js": "/wheelz-dev/static/js/main.ce4132ec.chunk.js",
+    "main.js.map": "/wheelz-dev/static/js/main.ce4132ec.chunk.js.map",
+    "runtime-main.js": "/wheelz-dev/static/js/runtime-main.71be7d43.js",
+    "runtime-main.js.map": "/wheelz-dev/static/js/runtime-main.71be7d43.js.map",
+    "static/js/2.26698f81.chunk.js": "/wheelz-dev/static/js/2.26698f81.chunk.js",
+    "static/js/2.26698f81.chunk.js.map": "/wheelz-dev/static/js/2.26698f81.chunk.js.map",
+    "index.html": "/wheelz-dev/index.html",
+    "precache-manifest.f08e44a651a1734fbf655968cfec6de0.js": "/wheelz-dev/precache-manifest.f08e44a651a1734fbf655968cfec6de0.js",
+    "service-worker.js": "/wheelz-dev/service-worker.js",
+    "static/css/main.626b0879.chunk.css.map": "/wheelz-dev/static/css/main.626b0879.chunk.css.map",
+    "static/js/2.26698f81.chunk.js.LICENSE.txt": "/wheelz-dev/static/js/2.26698f81.chunk.js.LICENSE.txt",
+    "static/media/Logo_wheelzdevNew.png": "/wheelz-dev/static/media/Logo_wheelzdevNew.99c060e3.png",
+    "static/media/style.scss": "/wheelz-dev/static/media/illustration-section-02.5340e189.svg",
+    "static/media/feature-tile-icon-02.svg": "/wheelz-dev/static/media/feature-tile-icon-02.13b5a685.svg",
+    "static/media/feature-tile-icon-03.svg": "/wheelz-dev/static/media/feature-tile-icon-03.8b7d0a8e.svg",
+    "static/media/feature-tile-icon-06.svg": "/wheelz-dev/static/media/feature-tile-icon-06.e40567b1.svg",
+    "static/media/newLaunch_imageInstagram.png": "/wheelz-dev/static/media/newLaunch_imageInstagram.11c945bf.png",
+    "static/media/white-instagram-icon-png.png": "/wheelz-dev/static/media/white-instagram-icon-png.b5b41e27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71be7d43.js",
+    "static/js/2.26698f81.chunk.js",
+    "static/css/main.626b0879.chunk.css",
+    "static/js/main.ce4132ec.chunk.js"
+  ]
+}

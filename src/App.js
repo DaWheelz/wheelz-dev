@@ -36,7 +36,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute path="/wheelz-dev/" component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );
