@@ -42,7 +42,7 @@ const FeaturesTiles = ({
   ];
 
   const getItems = () => {
-    axios.get(`https://wheelzdevshop.netlify.app/.netlify/functions/api`).then(response => {
+    axios.get(`https://wheelzdevshop.netlify.app/.netlify/functions/api/items`).then(response => {
       console.log(response)
     })
   }

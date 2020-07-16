@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dad827f.chunk.css",
+    "main.js": "/static/js/main.de6adf7e.chunk.js",
+    "main.js.map": "/static/js/main.de6adf7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
+    "static/js/2.40206595.chunk.js": "/static/js/2.40206595.chunk.js",
+    "static/js/2.40206595.chunk.js.map": "/static/js/2.40206595.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2e96909cd1cf8c5fde38ec2eff191f9e.js": "/precache-manifest.2e96909cd1cf8c5fde38ec2eff191f9e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5dad827f.chunk.css.map": "/static/css/main.5dad827f.chunk.css.map",
+    "static/js/2.40206595.chunk.js.LICENSE.txt": "/static/js/2.40206595.chunk.js.LICENSE.txt",
+    "static/media/Logo_wheelzdev 2.png": "/static/media/Logo_wheelzdev 2.6862046b.png",
+    "static/media/Logo_wheelzdev.png": "/static/media/Logo_wheelzdev.6862046b.png",
+    "static/media/Logo_wheelzdevNew.png": "/static/media/Logo_wheelzdevNew.99c060e3.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.5340e189.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.dd87cbc6.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.13b5a685.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.8b7d0a8e.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.e40567b1.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/static/media/logo.2810a88b.svg",
+    "static/media/newLaunch_imageInstagram.png": "/static/media/newLaunch_imageInstagram.11c945bf.png",
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg",
+    "static/media/white-instagram-icon-png.png": "/static/media/white-instagram-icon-png.b5b41e27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9f4589.js",
+    "static/js/2.40206595.chunk.js",
+    "static/css/main.5dad827f.chunk.css",
+    "static/js/main.de6adf7e.chunk.js"
+  ]
+}
