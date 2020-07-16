@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/layout/Header';
+import ShopHeader from '../components/layout/ShopHeader';
 import Footer from '../components/layout/Footer';
 
 const LayoutDefault = ({ children }) => (
