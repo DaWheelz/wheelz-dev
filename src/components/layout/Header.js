@@ -112,17 +112,9 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="shop" onClick={closeMenu}>Shop</Link>
+                      <Link to="wheelz-dev/shop" onClick={closeMenu}>Shop</Link>
                     </li>
                   </ul>
-                  {/* {!hideSignin &&
-                    <ul
-                      className="list-reset header-nav-right"
-                    >
-                      <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
-                      </li>
-                    </ul>} */}
                 </div>
               </nav>
             </>}
