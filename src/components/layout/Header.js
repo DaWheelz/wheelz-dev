@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="wheelz-dev/shop" onClick={closeMenu}>Shop</Link>
+                      <Link to="shop" onClick={closeMenu}>Shop</Link>
                     </li>
                   </ul>
                 </div>
