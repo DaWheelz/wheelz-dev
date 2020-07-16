@@ -56,6 +56,7 @@ const FeaturesTiles = ({
                 <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                     <div className="features-tiles mb-16">
+                      test
                     <Image
                         src={require(`./../../assets/images/${data.img}`)}
                         />
