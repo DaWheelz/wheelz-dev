@@ -42,7 +42,6 @@ const FeaturesTiles = ({
   ];
 
   const getItems = () => {
-    console.log('request')
     axios.get(`https://wheelzdevshop.netlify.app/.netlify/functions/api/items`).then(response => {
       console.log(response)
     })
