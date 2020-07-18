@@ -111,9 +111,9 @@ const Header = ({
                       'list-reset text-xs',
                       navPosition && `header-nav-${navPosition}`
                     )}>
-                    <li>
+                    {/* <li>
                       <Link to="shop" onClick={closeMenu}>Shop</Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </nav>

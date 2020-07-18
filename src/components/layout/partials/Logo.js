@@ -19,7 +19,7 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <Link to="/wheelz-dev">
+        <Link to="/">
           <Image
             src={require('./../../../assets/images/Logo_wheelzdevNew.png')}
             width={100}
